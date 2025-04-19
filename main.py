@@ -1,16 +1,3 @@
-# 🔹 Desafio 2: Cadastro e Análise de Alunos
-# Sistema de notas:
-
-# Cadastro de alunos com nome, matrícula, notas (3 provas).
-
-# Cálculo automático da média.
-
-# Exibir os aprovados e reprovados.
-
-# Exportar resultados em um DataFrame.
-
-# Exibir gráficos (usando matplotlib ou seaborn) de desempenho geral.
-
 # %%
 import pandas as pd
 import datetime as dt
